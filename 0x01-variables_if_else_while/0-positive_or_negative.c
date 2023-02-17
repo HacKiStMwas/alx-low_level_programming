@@ -13,9 +13,10 @@ int	main(void)
 int	n;
 srand(time(0));
 n	= rand()	- RAND_MAX	/	2;
-if	(n	>	0)
+/*your code goes there*/
+if	(ni	>	0)
 {
-printf("%dis positive\n", n);
+printf("%d is positive\n", n);
 }
 else	if	(n	==	0)
 {
