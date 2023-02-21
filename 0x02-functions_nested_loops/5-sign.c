@@ -1,5 +1,4 @@
 #include "main.h"
-#include <limits.h>
 /**
  * print_sign - print the sign of a number
  * @n: the number to check
@@ -14,7 +13,5 @@ int print_sign(int n)
 		_putchar('+');
 		return (1);
 	} else if (n == 0)
-	{
-	}
 }
 
