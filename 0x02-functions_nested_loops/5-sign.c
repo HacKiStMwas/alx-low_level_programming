@@ -1,4 +1,5 @@
 #include "main.h"
+#include <limits.h>
 /**
  * print_sign - print the sign of a number
  * @n: the number to check
