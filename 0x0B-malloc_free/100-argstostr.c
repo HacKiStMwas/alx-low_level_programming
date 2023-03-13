@@ -27,7 +27,7 @@ char *argstostr(int ac, char **av)
 	for (n = 0; av[i][n]; n++)
 	{
 		str[a] = av[i][n];
-		r++;
+		a++;
 	}
 	if (str[a] == '\0')
 	{
