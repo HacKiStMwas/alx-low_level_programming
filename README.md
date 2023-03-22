@@ -1,1 +1,1 @@
-This is a project for Low Level Programming
+This is the ALX Low Level Programming Project
